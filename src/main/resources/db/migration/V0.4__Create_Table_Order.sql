@@ -1,4 +1,4 @@
-CREATE TABLE `order` (
+CREATE TABLE `t_order` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `user_id` int(11) DEFAULT NULL,
   `price` int(11) DEFAULT NULL,
